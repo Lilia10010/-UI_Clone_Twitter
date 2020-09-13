@@ -174,7 +174,7 @@ export const ExiteIcon = styled(ExitToApp)`
         height: 25px;
         color: var(--white);
         margin-left: 30px;
-        cursor: pointer;
+        cursor: pointer; 
 
         &:hover{
             > path{
